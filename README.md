@@ -86,7 +86,7 @@ The report was then published to Power BI Service.
 
 
 #  Snapshot of all report pages (Power BI DESKTOP)
-![Overview page](https://github.com/user-attachments/assets/4881e211-7497-4ca1-b766-84823cab9441)
+![Overview](https://github.com/user-attachments/assets/d68c53b4-877a-474d-beab-b1456ba2d9b0)
 
 ![Product Page](https://github.com/user-attachments/assets/1a657815-4450-4b40-9ece-4db6cd48eae7)
 
